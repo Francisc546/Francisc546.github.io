@@ -4,17 +4,37 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Preview](./another-page.html).
-[Github Page](./another-page.html).
 
-There should be whitespace between paragraphs.
-
-# Header 1
+# Biography
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+## Projects
 
+
+### Code name: Txiky
+
+Narrative based puzzle platforms, using the thematic of rejection and fennec foxes.
+ 
+[Preview](./Tchiky.html). 
+
+### Eidolon
+
+Narrative based puzzle platforms, using the thematic of rejection and fennec foxes.
+ 
+[Preview](./Eidolon.html).  
+[Github Page](https://github.com/Francisc546/Rememberme55).
+
+### Masters Against FoodWaste
+
+Narrative based puzzle platforms, using the thematic of rejection and fennec foxes.
+ 
+[Preview](./MCoD.html).  
+[Github Page](https://github.com/Varrisco/FoodWasteGame-Trial).
+[Google Playstore](https://play.google.com/store/apps/details?id=com.LivLafLuv17Black.MastersCoD&hl=en-US).
+
+
+## Publications
 
 ### Small image
 
