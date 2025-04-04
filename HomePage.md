@@ -1,8 +1,4 @@
----
-layout: default
----
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 
 # Biography
@@ -17,6 +13,9 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 Narrative based puzzle platforms, using the thematic of rejection and fennec foxes.
  
 [Preview](./Tchiky.html). 
+
+![PreviewImage](./MainMenuTemp.png)
+
 [Github Page](https://github.com/Francisc546/FoxesP1).
 
 ### Eidolon
@@ -24,6 +23,9 @@ Narrative based puzzle platforms, using the thematic of rejection and fennec fox
 Narrative based puzzle platforms, using the thematic of rejection and fennec foxes.
  
 [Preview](./Eidolon.html).  
+
+![ImagePreview](./Eidolon.png)
+
 [Github Page](https://github.com/Francisc546/Rememberme55).
 
 ### Masters Against FoodWaste
@@ -31,7 +33,11 @@ Narrative based puzzle platforms, using the thematic of rejection and fennec fox
 Narrative based puzzle platforms, using the thematic of rejection and fennec foxes.
  
 [Preview](./MCoD.html).  
+
+![GameIcon](./MCoD.png)
+
 [Github Page](https://github.com/Varrisco/FoodWasteGame-Trial).
+
 [Google Playstore](https://play.google.com/store/apps/details?id=com.LivLafLuv17Black.MastersCoD&hl=en-US).
 
 
@@ -45,3 +51,8 @@ Narrative based puzzle platforms, using the thematic of rejection and fennec fox
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
+---
+layout: default
+---
+
+Text can be **bold**, _italic_, or ~~strikethrough~~.
