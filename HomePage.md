@@ -17,6 +17,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 Narrative based puzzle platforms, using the thematic of rejection and fennec foxes.
  
 [Preview](./Tchiky.html). 
+[Github Page](https://github.com/Francisc546/FoxesP1).
 
 ### Eidolon
 
