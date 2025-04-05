@@ -66,7 +66,4 @@ we have different challenges, which are performed in first person point of view,
 
 ## Publications
 
----
-layout: default
----
 
