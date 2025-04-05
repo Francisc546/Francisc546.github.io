@@ -59,7 +59,7 @@ we have different challenges, which are performed in first person point of view,
 
 **Type: Trailer**
 
-![ImagePreview](./satama.png)
+![ImagePreview](./SatamaCover.png)
 
 [Video](https://www.youtube.com/watch?v=PdkscGYUdJ8)
 
