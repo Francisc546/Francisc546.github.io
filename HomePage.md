@@ -31,7 +31,7 @@ and live action sequences to differentiate the "simulation" from the real world 
  
 [Learn More](./Eidolon.html)  
 
-![ImagePreview](./Eidolon.png)
+![ImagePreview](./Eidolon.jpg)
  
 [Itch.io](Coming at some point?)
 
@@ -59,7 +59,7 @@ we have different challenges, which are performed in first person point of view,
 
 **Type: Trailer**
 
-![GameIcon](./MCoD.png)
+![GameIcon](./satama.png)
 
 [Video](https://www.youtube.com/watch?v=PdkscGYUdJ8)
 
