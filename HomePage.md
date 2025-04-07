@@ -27,11 +27,11 @@ Narrative based puzzle platforms, using the thematic of rejection and fennec fox
 
 [Github Page](https://github.com/Francisc546/FoxesP1)
 
-[First Prototype(branch5.4)](https://francisc546.itch.io/txikyfoxes)
+[First Prototype](https://francisc546.itch.io/txikyfoxes)
 
 ![PreviewImage](./MainMenuTemp.png)
 
-[Learn More](./Txiky.html) 
+[Learn More](./Txiky.md) 
 
 __Disclaimer__ _:This version of the game has various bugs, to switch version press the button "Fox tricks" in the main menu (PrototypeA - Ashley;PrototypeB - broasdemel)_
 
