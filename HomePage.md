@@ -48,7 +48,7 @@ and live action sequences to differentiate the "simulation" from the real world 
 
 [Github Page](https://github.com/Francisc546/Rememberme55)
 
-[Learn More](./Eidolon.html)  
+[Learn More](./Eidolon.md)  
 
 ### Masters Against FoodWaste
 
@@ -65,7 +65,7 @@ we have different challenges, which are performed in first person point of view,
 
 [Google Playstore](https://play.google.com/store/apps/details?id=com.LivLafLuv17Black.MastersCoD&hl=en-US)
 
-[Learn More](./MCoD.html) 
+[Learn More](./MCoD.md) 
 
 
 ### Satama teaser trailer
