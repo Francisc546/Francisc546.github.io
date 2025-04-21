@@ -11,6 +11,10 @@ Both prototypes followed the same storyline;
 ![Narration](https://github.com/user-attachments/assets/164f194d-2e21-459d-8ffe-b8ad80d9dda3)
 ![Gameplay1](https://github.com/user-attachments/assets/293bb446-83df-440e-a052-b837ddd339af)
 ![Gameplay2](https://github.com/user-attachments/assets/fd1fe00f-19e8-413e-a220-1180dc5b561e)
+![Gameplay3](./Figures/Txiky/SandStormTunnels.gif) 
+![Gameplay4](./Figures/Txiky/FoxWandering.gif) 
+![Gameplay5](./Figures/Txiky/SleepingFoxes.gif) 
+![Gameplay6](./Figures/Txiky/Platforms.gif) 
 
 [Download and try this version here](https://francisc546.itch.io/txikyfoxes)
 
