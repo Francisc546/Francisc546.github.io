@@ -17,4 +17,4 @@ This game was built with Unreal Engine 5.1 and as part of my master dissertation
 
 For a in-depth look at the evolution of the game accross the initial months you can watch the following video.
 
-![](./Figures/MCoD/"MCoD Evolution.mp4")
+[]: (./Figures/MCoD/MCoDEvolution.mp4)
