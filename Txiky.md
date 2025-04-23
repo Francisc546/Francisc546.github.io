@@ -12,7 +12,7 @@ Both prototypes followed the same storyline;
 ![Gameplay1](https://github.com/user-attachments/assets/293bb446-83df-440e-a052-b837ddd339af)
 ![Gameplay2](https://github.com/user-attachments/assets/fd1fe00f-19e8-413e-a220-1180dc5b561e)
 
-[Latest teaser](https://www.youtube.com/watch?v=lbl2WvNAjZE)
+![Latest teaser](https://www.youtube.com/watch?v=lbl2WvNAjZE)
 
 ![Gameplay3](./Figures/Txiky/SandStormTunnels.gif) 
 ![Gameplay4](./Figures/Txiky/FoxWandering.gif) 
