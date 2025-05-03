@@ -4,7 +4,7 @@ Meet Edu, a monkey apprentice of Chef Olivia in Funimal city! Become a master in
 
 The game was designed with minimalistic design and graphics, targets mobile platforms with the target age group of 8 - 12 years old.
 
-![Game Trailer](https://www.youtube.com/watch?v=EemX44KR0Sw))
+![Game Trailer](https://www.youtube.com/watch?v=EemX44KR0Sw)
 
 This game was built with Unreal Engine 5.1 and as part of my master dissertation, I've decided to publish it for ease of distribution for whoever wants to try it.
 
@@ -17,4 +17,4 @@ This game was built with Unreal Engine 5.1 and as part of my master dissertation
 
 For a in-depth look at the evolution of the game accross the initial months you can watch the following video.
 
-[Game Evolution](https://www.youtube.com/watch?v=MqWZ5gCTByw))
+[Game Evolution](https://www.youtube.com/watch?v=MqWZ5gCTByw)
