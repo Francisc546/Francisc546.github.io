@@ -11,6 +11,8 @@ This prototype was developed in the short period of 1.5 months and accepted in t
 
 [Explanation video](https://www.youtube.com/watch?v=PbwCPxgXXg4)
 
+[Itch.io link](https://francisc546.itch.io/eidolon)
+
 ![Emily](https://github.com/user-attachments/assets/98841a43-d190-4596-b42f-375859eb9c37)
 ![whiteroom](https://github.com/user-attachments/assets/d8084ec4-fb36-4ed9-9655-5078cb780584)
 ![Chess](https://github.com/user-attachments/assets/5f10e50b-c8be-44f7-a448-57be081323dc)
