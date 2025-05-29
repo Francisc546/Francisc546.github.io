@@ -47,7 +47,7 @@ and live action sequences to differentiate the "simulation" from the real world 
  
 ![ImagePreview](./Eidolon.jpg)
  
-[Itch.io](Coming at some point?)
+[Itch.io](https://francisc546.itch.io/eidolon)
 
 [Github Page](https://github.com/Francisc546/Rememberme55)
 
