@@ -1,5 +1,9 @@
 This exploratory game is being developed in Unreal Engine 5, the game makes use of the AnimX: Advanced Foxes pack; Many tweaks and adjustments were made to fit our gameplay experience; The game is a narrative platform experience, we play as a young fox, Txiky, in a third person perspective.
 
+## Concepts, tests and trailers
+
+[Check out the playlist](https://youtu.be/hCn0Te4nzJc?si=sQzh0K9--wpbOWyF)
+
 ## First Prototype (P1)
 
 We developed two preliminary prototypes with distinct approaches to the gameplay design, 
@@ -12,7 +16,8 @@ Both prototypes followed the same storyline;
 ![Gameplay1](https://github.com/user-attachments/assets/293bb446-83df-440e-a052-b837ddd339af)
 ![Gameplay2](https://github.com/user-attachments/assets/fd1fe00f-19e8-413e-a220-1180dc5b561e)
 
-https://www.youtube.com/watch?v=lbl2WvNAjZE
+[March 2025 Trailer](https://www.youtube.com/watch?v=lbl2WvNAjZE)
+
 
 ![Gameplay3](./Figures/Txiky/SandStormTunnels.gif) 
 ![Gameplay4](./Figures/Txiky/FoxWandering.gif) 
