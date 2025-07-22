@@ -1,10 +1,10 @@
 # Portfolio
 
-Francisco "Francisc546" Vasconcelos, Funchal, Portugal, 24 years old.
+Francisco "Francisc546" Vasconcelos, Funchal, Portugal, 25 years old.
 
 # Biography
 
-Hello! I'm Francisco Vasconcelos, 24 years old passionate about games and game development, this portfolio offers a demonstration of a couple of the game projects I've worked on. My main interests in game development are level design, testing and polishing issues, creating mechanics, I also have some experience with cinematics and animations.
+Hello! I'm Francisco Vasconcelos, 25 years old passionate about games and game development, this portfolio offers a demonstration of a couple of the game projects I've worked on. My main interests in game development are level design, testing and polishing issues, creating mechanics, I also have some experience with cinematics and animations.
 
 I have a MSc in Computer Science from University of Madeira and, my first "job" was as a research assistant and game developer at eGamesLab, where I had the chance to work on various game related projects,
 expand my Unreal Engine tools knowledge (with non UE tools such as Rokoko suit), and collaborate with colleagues from other disciplines.
