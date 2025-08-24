@@ -4,6 +4,10 @@ This exploratory game is being developed in Unreal Engine 5, the game makes use 
 
 [Check out the playlist](https://youtu.be/hCn0Te4nzJc?si=sQzh0K9--wpbOWyF)
 
+## Game Description
+
+ It's a narrative based game, with exploration, puzzles and platforms, which tells a story of a young fox, Txiky, which gets left out by their family for being a fox out of the ordinary with her life ambitions. The story tries to create empathy between the main character and the player, recreating moments of rejection sensitivity
+
 ## First Prototype (P1)
 
 We developed two preliminary prototypes with distinct approaches to the gameplay design, 
@@ -31,6 +35,6 @@ __Disclaimer__ _:This version of the game has various bugs, to switch version pr
 
 ## Rejection symptoms prototype (P2)
 
-This is prototype is currently in development, it's currently scheduled to be testing ready for middle of April and be tested for a period of 2-3 weeks; Results and a demo version
-may release somewhere in June.
+This is prototype is currently in development, it's currently ready to be tested for a period of 2-3 weeks; Results and a demo version
+may release somewhere in late 2025.
 
